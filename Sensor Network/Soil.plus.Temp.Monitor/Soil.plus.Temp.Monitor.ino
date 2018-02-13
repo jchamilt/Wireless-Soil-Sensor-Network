@@ -9,16 +9,6 @@
 // GNU General Public License for more details.
 
 /*
-  Orginal by:
-  Remote soil moisture 3-sensor node based on Vinduino-H V3
-  Using ESP2866 Wifi module and PCF8563 RTC
-  Using latest DHT libaray, allowing use of DHT11 or DHT 22
-  Added galvanic voltage bias compensation
-  Date May 24, 2015
-  Copyright (C), 2015, Reinier van der Lee,
-  www.vanderleevineyard.com
-  SuperSleepyDS18B20 SuperSleepyDS18B20.ino
-  Steven A Cholewiak - www.semifluid.com
   Additions by Jared Hamilton
   jchamilt@eagle.fgcu.edu
 */
